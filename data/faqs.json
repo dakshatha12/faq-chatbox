@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "How do I reset my password?",
+    "answer": "To reset your password, click on 'Forgot Password' on the login page. Enter your registered email address and we'll send you a reset link within 2 minutes. The link expires after 24 hours.",
+    "category": "Account"
+  },
+  {
+    "id": 2,
+    "question": "How can I track my order?",
+    "answer": "You can track your order by visiting the 'My Orders' section in your account dashboard. Enter your order ID or use the tracking link sent to your email after dispatch.",
+    "category": "Orders"
+  },
+  {
+    "id": 3,
+    "question": "What is the return policy?",
+    "answer": "We offer a hassle-free 30-day return policy. Items must be in original condition with tags attached. Initiate a return from 'My Orders' and we'll arrange a free pickup within 48 hours.",
+    "category": "Returns"
+  },
+  {
+    "id": 4,
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 3–5 business days. Express shipping (1–2 days) is available at checkout. Free standard shipping on orders above ₹499.",
+    "category": "Shipping"
+  },
+  {
+    "id": 5,
+    "question": "What payment methods are accepted?",
+    "answer": "We accept Credit/Debit cards (Visa, Mastercard, RuPay), UPI (GPay, PhonePe, Paytm), Net Banking, EMI options, and Cash on Delivery for eligible orders.",
+    "category": "Payments"
+  },
+  {
+    "id": 6,
+    "question": "Can I cancel my order?",
+    "answer": "Orders can be cancelled within 2 hours of placement. Go to 'My Orders', select the order, and click 'Cancel'. Once shipped, you'll need to initiate a return after delivery.",
+    "category": "Orders"
+  },
+  {
+    "id": 7,
+    "question": "How do I change my delivery address?",
+    "answer": "You can change your delivery address before the order is shipped. Go to 'My Orders', select your order, and click 'Edit Address'. After dispatch, address changes are not possible.",
+    "category": "Shipping"
+  },
+  {
+    "id": 8,
+    "question": "Is my payment information secure?",
+    "answer": "Yes, absolutely. We use 256-bit SSL encryption and are PCI-DSS compliant. We never store your card details on our servers. All transactions are processed through secure payment gateways.",
+    "category": "Payments"
+  },
+  {
+    "id": 9,
+    "question": "How do I create an account?",
+    "answer": "Click 'Sign Up' on the homepage. You can register with your email address or sign up using Google/Facebook. Verify your email to complete registration and get ₹100 welcome discount.",
+    "category": "Account"
+  },
+  {
+    "id": 10,
+    "question": "What if I receive a damaged product?",
+    "answer": "We apologize for the inconvenience! Take a photo of the damaged item and report it within 48 hours of delivery via 'My Orders' > 'Report Issue'. We'll send a replacement or issue a full refund within 3–5 business days.",
+    "category": "Returns"
+  },
+  {
+    "id": 11,
+    "question": "Do you offer international shipping?",
+    "answer": "Currently, we ship within India only. International shipping is coming soon. Sign up for our newsletter to be notified when we expand to your country.",
+    "category": "Shipping"
+  },
+  {
+    "id": 12,
+    "question": "How do I apply a coupon or promo code?",
+    "answer": "Enter your coupon code in the 'Apply Coupon' field on the cart or checkout page and click 'Apply'. Valid coupons will show the discount immediately. Only one coupon can be used per order.",
+    "category": "Payments"
+  },
+  {
+    "id": 13,
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us via Live Chat (available 9 AM – 9 PM IST), email at support@shop.com, or call us at 1800-XXX-XXXX (toll-free). Average response time is under 2 hours.",
+    "category": "Support"
+  },
+  {
+    "id": 14,
+    "question": "Can I change or modify my order after placing it?",
+    "answer": "Order modifications (size, color, quantity) are possible within 1 hour of placing the order. Contact our support team immediately via Live Chat for fastest assistance.",
+    "category": "Orders"
+  },
+  {
+    "id": 15,
+    "question": "How do I update my profile information?",
+    "answer": "Go to 'My Account' > 'Profile Settings' to update your name, phone number, email, or profile picture. Email changes require re-verification for security purposes.",
+    "category": "Account"
+  },
+  {
+    "id": 16,
+    "question": "When will I get my refund?",
+    "answer": "Refunds are processed within 5–7 business days after we receive the returned item. The amount is credited back to your original payment method. UPI refunds are typically faster (1–2 days).",
+    "category": "Returns"
+  },
+  {
+    "id": 17,
+    "question": "Are there any hidden charges?",
+    "answer": "No hidden charges! The price shown is what you pay. Shipping charges (if applicable) and taxes are displayed transparently before you confirm the order.",
+    "category": "Payments"
+  },
+  {
+    "id": 18,
+    "question": "How do I delete my account?",
+    "answer": "To delete your account, go to 'My Account' > 'Settings' > 'Delete Account'. Note that this is permanent and all order history will be lost. Contact support if you'd like to pause instead.",
+    "category": "Account"
+  },
+  {
+    "id": 19,
+    "question": "What is cash on delivery limit?",
+    "answer": "Cash on Delivery is available for orders up to ₹5,000. Orders above this amount require prepayment. COD availability may vary by pin code.",
+    "category": "Payments"
+  },
+  {
+    "id": 20,
+    "question": "How do I write a product review?",
+    "answer": "After delivery, go to 'My Orders', find the product, and click 'Write a Review'. You can rate the product (1–5 stars) and add photos. Reviews help other customers make better choices!",
+    "category": "Support"
+  }
+]
